@@ -98,7 +98,7 @@ I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 🛡️ **AI Sentinel** | Real-time NIDS for IoT · Ensemble ML · 3-stage attack analysis | Python · Scikit-learn · UNSW-NB15 | [Live ↗](https://ai-sentinel-team13124.netlify.app/) |
-| 📊 **Sentiment Analyzer** | NLP sentiment analysis · Microsoft Elevate Internship project | Python · Azure · Jupyter | [Live ↗]([https://sentimind-analyzer.netlify.app/]) |
+| 📊 **Sentiment Analyzer** | NLP sentiment analysis · Microsoft Elevate Internship project | Python · Azure · Jupyter | [Live ↗](https://sentimind-analyzer.netlify.app/) |
 | 🧍 **Human Pose Estimation** | Real-time pose detection · 95% accuracy on CNN model | TensorFlow · OpenCV · CNN | [Repo ↗](#) |
 | 🤖 **RISHI AI Chatbot** | College AI assistant · 50+ daily student queries | HTML · CSS · JS · AI API | [Repo ↗](#) |
 | 💰 **VendorAI** | AI-powered pricing & negotiation assistant for local vendors | Python · AI | [Repo ↗](https://github.com/GYAGNASRI/VendorAI-26Jan-Challenge) |

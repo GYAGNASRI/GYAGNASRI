@@ -24,27 +24,33 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
-```python
-yagnasri = {
-    "role"       : "AI/ML Developer & Cybersecurity Enthusiast",
-    "education"  : "B.Tech CSE @ RMSIT, JNTUH (2024–2027)",
-    "diploma"    : "Cyber Physical Systems & Security",
-    "ambassador" : "IIT Delhi eDC — 5000+ community reach",
-    "location"   : "Hyderabad, Telangana 🇮🇳",
-    "focus"      : ["Network Intrusion Detection", "Computer Vision", "Fraud Detection"],
-    "open_to"    : "AI/ML Internships & Research Roles"
-}
-```
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+> *"Building AI systems that detect, defend, and protect."*
+
+I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building production-grade ML systems — from real-time network intrusion detection to computer vision pipelines.
+
+<br>
+
+🎓 **B.Tech CSE** · RMSIETW, JNTUH · 2024–2027  
+📜 **Diploma** · Cyber Physical Systems & Security  
+🏛️ **Campus Ambassador** · IIT Delhi eDC 
+🤖 **ML Intern** · YBI Foundation  
+📍 **Hyderabad, Telangana** · Open to internships & research roles  
+
+<br>
+
+| 🔭 Currently Building | 🌱 Exploring | 🎯 Open To |
+|---|---|---|
+| Credit Card Fraud Detection | GenAI · MLOps · Cloud Security | ML Engineer · Cybersecurity Analyst · SOC Analyst · GRC Associate |
 ---
 
 ## ⚡ What I'm Doing Right Now
 
 - 🛡️ Deployed **[AI Sentinel](https://ai-sentinel-team13124.netlify.app/)** — ML-based NIDS for IoT devices using ensemble voting (UNSW-NB15 / CICIDS2017)
-- 🔗 Developed **URL Shortener** with click tracking and analytics dashboard
+- 📊  Live **[Sentiment Analyzer]([https://sentimind-analyzer.netlify.app/])** — Detecting Sentiments based on the sentences (NLP Sentiment Detector)
 - 📖 Deepening expertise in **Deep Learning, Cybersecurity & Fintech AI**
 - 🎯 Targeting **AI/ML Developer** roles at IDRBT, DRDO, and fintech research labs
 
@@ -92,10 +98,10 @@ yagnasri = {
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 🛡️ **AI Sentinel** | Real-time NIDS for IoT · Ensemble ML · 3-stage attack analysis | Python · Scikit-learn · UNSW-NB15 | [Live ↗](https://ai-sentinel-team13124.netlify.app/) |
+| 📊 **Sentiment Analyzer** | NLP sentiment analysis · Microsoft Elevate Internship project | Python · Azure · Jupyter | [Live ↗]([https://sentimind-analyzer.netlify.app/]) |
 | 🧍 **Human Pose Estimation** | Real-time pose detection · 95% accuracy on CNN model | TensorFlow · OpenCV · CNN | [Repo ↗](#) |
 | 🤖 **RISHI AI Chatbot** | College AI assistant · 50+ daily student queries | HTML · CSS · JS · AI API | [Repo ↗](#) |
 | 💰 **VendorAI** | AI-powered pricing & negotiation assistant for local vendors | Python · AI | [Repo ↗](https://github.com/GYAGNASRI/VendorAI-26Jan-Challenge) |
-| 📊 **Sentiment Analyzer** | NLP sentiment analysis · Microsoft Elevate Internship project | Python · Azure · Jupyter | [Repo ↗](https://github.com/GYAGNASRI/azure-elevate-sentiment-analyzer) |
 | 🎓 **Student Performance Predictor** | Predicts student pass/fail from academic inputs | Python · ML · Scikit-learn | [Repo ↗](https://github.com/GYAGNASRI/ML32_pre-) |
 
 ---

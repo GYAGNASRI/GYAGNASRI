@@ -28,7 +28,7 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> *"Building AI systems that detect, defend, and protect."*
+> *"Building AI systems that detect, defend, and protect before act."*
 
 I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building production-grade ML systems — from real-time network intrusion detection to computer vision pipelines.
 

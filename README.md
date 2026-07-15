@@ -107,11 +107,6 @@ I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building
 ---
 
 ## 📊GitHub Stats
-<p align="center">
-  <!-- Fixed streak server endpoint for instant rendering without broken icons -->
-  <img src="https://demolab.com" width="70%" alt="GitHub Streak Stats"/>
-</p>
----
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYAGNASRI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 

@@ -105,7 +105,6 @@ I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building
 | 🎓 **Student Performance Predictor** | Predicts student pass/fail from academic inputs | Python · ML · Scikit-learn | [Repo ↗](https://github.com/GYAGNASRI/ML32_pre-) |
 
 ---
-
 ## 📊GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYAGNASRI&theme=tokyonight&hide_border=true" width="70%"/>

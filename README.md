@@ -108,7 +108,8 @@ I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building
 ## 📊GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYAGNASRI&theme=tokyonight&hide_border=true" width="70%"/>
-### </p>
+</p> ###
+
 ---
 
 ## 🏆 Certifications & Recognition

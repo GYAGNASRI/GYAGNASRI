@@ -55,7 +55,6 @@ I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building
 - 🎯 Targeting **AI/ML Developer** roles at IDRBT, DRDO, and fintech research labs
 
 ---
-
 ## 🛠️ Tech Stack
 
 **Languages**

@@ -107,7 +107,7 @@ I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building
 
 ## 📊GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=GYAGNASRI&theme=dark" alt="GitHub Streak" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GYAGNASRI&show_icons=true&theme=dark)
 </p>
 
 ---

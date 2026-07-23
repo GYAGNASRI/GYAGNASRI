@@ -52,7 +52,7 @@ I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building
 - 🛡️ Deployed **[AI Sentinel](https://ai-sentinel-team13124.netlify.app/)** — ML-based NIDS for IoT devices using ensemble voting (UNSW-NB15 / CICIDS2017)
 - 📊  Live **[Sentiment Analyzer](https://sentimind-analyzer.netlify.app/)** — Detecting Sentiments based on the sentences (NLP Sentiment Detector)
 - 📖 Deepening expertise in **Deep Learning, Cybersecurity & Fintech AI**
-- 🎯 Targeting **AI/ML Developer** roles at IDRBT, DRDO, and fintech research labs
+- 🎯 Targeting **AI/ML Developer** roles at MNC
 
 ---
 ## 🛠️ Tech Stack

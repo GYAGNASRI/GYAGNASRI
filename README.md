@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,00D4FF&height=200&section=header&text=G.%20Yagnasri%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20Developer%20%7C%20Campus%20Ambassador%20%40%20IIT%20Delhi%20eDC&descAlignY=58&descSize=16&descColor=E0E0FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,00D4FF&height=200&section=header&text=Guttikonda%20Yagnasri&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20Developer%20%7C%20Campus%20Ambassador%20%40%20IIT%20Delhi%20eDC&descAlignY=58&descSize=16&descColor=E0E0FF"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">

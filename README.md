@@ -8,7 +8,7 @@
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GYAGNASRI&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=GYAGNASRI&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/
   &nbsp;
   <a href="https://www.linkedin.com/in/g-yagnasri-reddy-892a1028a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

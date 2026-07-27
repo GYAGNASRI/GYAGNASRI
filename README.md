@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Campus+Ambassador+%40+IIT+Delhi+eDC+%F0%9F%8F%9B%EF%B8%8F;Deployed+AI+Sentinel+NIDS+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+%2B+Deep+Learning+Engineer;Open+to+AI%2FML+Internships+%F0%9F%9A%80" alt="Typing SVG"/
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Campus+Ambassador+%40+IIT+Delhi+eDC+%F0%9F%8F%9B%EF%B8%8F;Deployed+AI+Sentinel+NIDS+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+%2B+Deep+Learning+Engineer;Open+to+AI%2FML+Internships+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <!-- BADGES -->

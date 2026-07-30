@@ -123,7 +123,6 @@ I'm an **AI/ML Developer and Cybersecurity enthusiast** from Hyderabad, building
 | ⚛️ | Quantum Computing Certificate | IQM Quantum School | 2025 |
 | 🍃 | MongoDB Basics | MongoDB & SmartBridge | 2026 |
 | 🌐 | TechnoVerse 2026 | Technology Summit | 2026 |
-
 ---
 
 ## 🤝 Experience & Leadership
